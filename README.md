@@ -1,4 +1,4 @@
   # firstgithub-repo
 this is my first git hub repo
 <br>
-author - sharik
+author - sharik mansoori
